@@ -1,12 +1,12 @@
 # Visual Studio Code Kullandığım Eklentiler
 
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-- [Bracket Pair Colorization Toggler](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- [vscode-icon](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
-- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) Daha iyi yorum satıları
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) Yer İmleri
+- [Bracket Pair Colorization Toggler](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler) Parantez Çifti Renklendirme
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) Birden çok dil için kod parçacığını veya kod dosyasını çalıştırın
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) Çalışma zamanı değerleri, siz yazarken güncellenir ve IDE'nizde kodunuzun yanında görüntülenir. Java için
+- [vscode-icon](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) Hiyerarşiye iconlar ekler
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Github'das kolay inceleme
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) Tema
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) Tema
 
