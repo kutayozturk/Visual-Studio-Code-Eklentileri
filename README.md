@@ -11,4 +11,8 @@
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) Tema
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) Tema
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) Kod Biçimlendirici
-- [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) Yapay zeka kod tamamlamalarıyla daha hızlı kodlayın
+- [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) Bu size C++ için en gelişmiş sözdizimini vurgulayacaktır. Bu, temanızın kodunuzu daha iyi renklendirebileceği anlamına gelir.
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) VS Code'da kodunuzun güzel ekran görüntülerini alın!
+- [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) Bu VS Code Uzantıları, bir Doxygen yorum bloğu başlatıp enter tuşuna basarak anında Doxygen Belgeleri oluşturulmasını sağlar.
+- [EasyZoom](https://marketplace.visualstudio.com/items?itemName=NabeelValley.easyzoom) Ctrl + fare tekerleği kullanarak düzenleyici yakınlaştırmayı etkinleştir
+- [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) Visual Studio Code için malzemeden ilham alan zarif bir tema.
