@@ -16,3 +16,4 @@
 - [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) Bu VS Code Uzantıları, bir Doxygen yorum bloğu başlatıp enter tuşuna basarak anında Doxygen Belgeleri oluşturulmasını sağlar.
 - [EasyZoom](https://marketplace.visualstudio.com/items?itemName=NabeelValley.easyzoom) Ctrl + fare tekerleği kullanarak düzenleyici yakınlaştırmayı etkinleştir
 - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) Visual Studio Code için malzemeden ilham alan zarif bir tema.
+- [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) Visual Studio klavye kısayollarını Visual Studio Code'a bağlar.
