@@ -18,3 +18,5 @@
 - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) Visual Studio Code için malzemeden ilham alan zarif bir tema.
 - [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) Visual Studio klavye kısayollarını Visual Studio Code'a bağlar.
 - [Shortcut Menu Bar](https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar) VSCode'daki editör menü çubuğuna güzelleştirme, açılan dosyaları gösterme, kaydetme, geçiş terminali, etkinlik çubuğu, Değiştirmeyi bul vb. gibi 35'ten fazla kullanışlı düğme ekleyin. Özel komutlarla kendi düğmelerinizi de oluşturabilirsiniz.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) Dosya adlarını otomatik olarak tamamlamak için bir eklenti.
+- 
