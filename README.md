@@ -19,4 +19,11 @@
 - [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) Visual Studio klavye kısayollarını Visual Studio Code'a bağlar.
 - [Shortcut Menu Bar](https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar) VSCode'daki editör menü çubuğuna güzelleştirme, açılan dosyaları gösterme, kaydetme, geçiş terminali, etkinlik çubuğu, Değiştirmeyi bul vb. gibi 35'ten fazla kullanışlı düğme ekleyin. Özel komutlarla kendi düğmelerinizi de oluşturabilirsiniz.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) Dosya adlarını otomatik olarak tamamlamak için bir eklenti.
+- [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
+- [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
+- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+- [Error Gutters](https://marketplace.visualstudio.com/items?itemName=IgorSbitnev.error-gutters)
+- [Statusbar error](https://marketplace.visualstudio.com/items?itemName=JoeBerria.statusbarerror)
+- [Save Button](https://marketplace.visualstudio.com/items?itemName=tendererdegree.save-button)
+- [Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)
   
