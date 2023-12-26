@@ -26,4 +26,7 @@
 - [Statusbar error](https://marketplace.visualstudio.com/items?itemName=JoeBerria.statusbarerror) Hatalı mesajlarının ve simgelerinin nerede ve nasıl görüntüleneceğini ayarlamaya yarar.
 - [Save Button](https://marketplace.visualstudio.com/items?itemName=tendererdegree.save-button) Save butonu ekler
 - [Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate) Dil çevirici
+- [CppSnippets](https://marketplace.visualstudio.com/items?itemName=hars.CppSnippets) Hızlı Kodlama
+- [The Best Themes for programmers](https://marketplace.visualstudio.com/items?itemName=EstevamSouza.the-best-themes-for-programmers) Bir çok kaliteli Tema bir arada
+- [C/C++ Project Generator](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-project-generator) C/C++ Proje Oluşturucu
   
